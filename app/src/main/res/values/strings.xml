@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application Login</string>
+
+    <!--LOGIN-->
+    <string name="loginTitle">MVVM</string>
+    <string name="loginEmail">Ingresa correo electrónico</string>
+    <string name="loginPassword">Ingresa contraseña</string>
+    <string name="loginButton">Entrar</string>
+
+</resources>
